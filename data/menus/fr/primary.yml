@@ -37,4 +37,13 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: ACCEUIL
+  slug: acceuil
+  target: "/acceuil/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/acceuil"
+  file: content/fr/pages/acceuil/_index.html
 
