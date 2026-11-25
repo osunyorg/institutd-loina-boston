@@ -1,9 +1,9 @@
 ---
 title: Menu principal
 items:
-- title: Fichiers
-  slug: fichiers
-  target: "/fichiers/"
+- title: ACCUEIL
+  slug: accueil
+  target: "/accueil/"
   kind: page
   new_tab: false
   children: []
@@ -37,13 +37,13 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: ACCEUIL
-  slug: acceuil
-  target: "/acceuil/"
+- title: 'CONTACT '
+  slug: contact
+  target: "/contact/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/acceuil"
-  file: content/fr/pages/acceuil/_index.html
+  path: "/pages/contact"
+  file: content/fr/pages/contact/_index.html
 
