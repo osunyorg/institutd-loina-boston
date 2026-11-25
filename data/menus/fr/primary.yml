@@ -19,15 +19,13 @@ items:
   descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Personnes
-  slug: personnes
-  target: "/personnes/"
-  kind: page
-  new_tab: false
+- title: À PROPOS
+  slug: a-propos
+  target: https://institutd.osuny.org/admin/fr/directory/people/3a8599c8-0086-4757-a1d6-53d26a70466a
+  kind: url
+  new_tab: true
   children: []
   descendants_targets: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
 - title: 'ILS ME FONT CONFIANCE '
   slug: ils-me-font-confiance
   target: "/organisations/"
