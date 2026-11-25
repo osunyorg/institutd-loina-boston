@@ -28,8 +28,8 @@ items:
   descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Organisations
-  slug: organisations
+- title: 'ILS ME FONT CONFIANCE '
+  slug: ils-me-font-confiance
   target: "/organisations/"
   kind: page
   new_tab: false
